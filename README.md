@@ -1,4 +1,4 @@
-👋 ##Olá, eu sou Lorenzo
+##👋 Olá, eu sou Lorenzo##
 - 🌱 Eu faço faculdade de Sistemas de Informação no IFES - Serra
 - 💞️ No momento eu estou como treinee da Morpheus jr. (empresa junior do IFES)
 - 🐛 Estudando atualmente Java, Python, C, HTML5 e CSS
